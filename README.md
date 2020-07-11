@@ -22,6 +22,12 @@ TON Labs is focused on developing the core infrastructure and an Open Source eco
 [tonos-cli](https://github.com/tonlabs/tonos-cli),
 [ton-client-js](https://github.com/tonlabs/ton-client-js),
 
+## Free TON
+### [Free TON Community](https://freeton.org/)
+### [forum.freeton.org](https://forum.freeton.org/)
+- [Free TON to complete original TON development](https://forum.freeton.org/t/free-ton-to-complete-original-ton-development/1325)
+
+
 ## [ton-rocks](https://github.com/ton-rocks)
 
 ## admin tools
@@ -29,6 +35,8 @@ TON Labs is focused on developing the core infrastructure and an Open Source eco
 - [FreeTON Toolbox](https://github.com/serge-medvedev/freeton-toolbox) -
 dockerized validator node up & running, dashboard based on TICK stack
 - [FreeTON Staking Manager](https://github.com/serge-medvedev/freeton-staking-manager)
+- [ansible-freeton](https://github.com/br3d/ansible-freeton) –
+Roles of Ansible for install and monitor FreeTon node.
 
 ## unsorted
 
@@ -51,10 +59,14 @@ stat /var/ton-work
 ./run.sh
 ```
 
+[GRAM SDK for TON](https://github.com/gram-net/gram-sdk)
+
 [Listen and decode messages](https://docs.ton.dev/86757ecb2/p/312aa6-listen-and-decode-messages)
 
 This is set of guides that outlines a process of bootstrapping Telegram Open Network node on FreeBSD systems.
 [sonofmom/freebsd_ton_guide](https://github.com/sonofmom/freebsd_ton_guide)
+
+[How come each program or service has an account of its own in /etc/passwd?](https://unix.stackexchange.com/questions/115177/how-come-each-program-or-service-has-an-account-of-its-own-in-etc-passwd/115184#115184)
 
 
 ## other useful tools
